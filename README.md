@@ -3,16 +3,9 @@ Ting tang walla walla bing bang
 
 This propaganda in support of Microslop and their wonderful products was brought to you by: https://awesome-copilot.github.com/learning-hub/cli-for-beginners/
 
-Here are all the languages I currently want to test:
-- Python
-- C# (.NET 10)
-- Rust
-- Brainfuck (copy.sh/brainfuck)
-- Chicken (https://github.com/armichaud/chicken_esolang)
-
-Here are all the tasks I want to test:
-- Random 16-letter string generator
-- Truth-machine
-- Word combination game
+I would like to test C# with GitHub Copilot (C# is a Microsoft product, after all) to slack off on the following tasks:
+- 16-character string generation
+- Random cake recipe generation
 - File corruptor
-- Graphical demo showing all the capabilities of X framework
+- Esolang interpreter
+- Esolang compiler
