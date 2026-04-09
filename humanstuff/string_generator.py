@@ -1,6 +1,7 @@
 import random as rand
 
-print("16-character string generator")
+print("16-character string generator of all printable ASCII characters")
+print("- "*25)
 
 gen_string = ""
 
