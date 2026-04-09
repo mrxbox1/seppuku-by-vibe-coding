@@ -5,7 +5,7 @@ print("Abnormal cake recipe generator")
 print("- "*25)
 
 numbers = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]
-units = ["ounce", "pound", "gram", "kilogram", "metric ton", "liter", "milliliter"]
+units = ["ounces", "pounds", "grams", "kilograms", "metric tonnes", "liters", "milliliters"]
 
 # yum yum
 ingredient_adjs = ["chocolate", "banana", "strawberry", "pistachio", "almond", "orange", "lemon",
@@ -18,9 +18,11 @@ ingredient_nouns = ["cake mix", "chocolate", "chocolate wrappers", "yeast", "ura
 
 for i in range(rand.randint(5,15)):
     print("-",
-          rand.choice(numbers), 
+          rand.choice(numbers),
+          "times",
           round(rand.uniform(1,10), 2), 
-          rand.choice(units), 
+          rand.choice(units),
+          "of",
           rand.choice(ingredient_adjs),
           rand.choice(ingredient_nouns))
 
