@@ -3,6 +3,7 @@
 ## Pull and peel licorice
 I started all over again.. :D
 This time, it's gonna be a _little_ bit more organized. Hopefully.
+(If you're wondering why less than 5 % of the file is Python, it's because I exported my Copilot conversations to HTML files to show that I actually did something)
 
 ## Checklist
 - [x] Demonstrate usage of GitHub Copilot for code review
